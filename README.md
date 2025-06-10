@@ -1,1 +1,1 @@
-# Retail-Store--Assortment-Pkanning
+# Retail-Store--Assortment-Planning
